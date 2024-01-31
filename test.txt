@@ -1,8 +1,4 @@
-hello
-
-xin chào mọi người 
-day la nghiem tien truong 
-dáy la phuong 
+this is a demo file 
 
 
 
